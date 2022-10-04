@@ -10,11 +10,11 @@ Realizar una página web que sirva de guía para los estudiantes de la facultad 
 A diferencia de las muchas páginas que existen, el objetivo de nuestra página no es enseñar al alumno sino que es indicarle el camino más optimo para aprender a hacerlo según lo que requiera. Además de que será particularmente diseñada para las asignaturas de la carrera impartida por la UADY por lo que será un acercamiento más personal con los alumnos. 
 ## Equipo 
 
-> - ★Madera López Rafael Leonardo 
-> - ☆Kuh Esquivel Mauro Arif
-> - ☆Murcia Cen José Alberto
-> - ☆Ruz Ruz Carlos Israel
-> - ☆Chan Pech Francisco Israel
+> - ★ Madera López Rafael Leonardo 
+> - ☆ Kuh Esquivel Mauro Arif
+> - ☆ Murcia Cen José Alberto
+> - ☆ Ruz Ruz Carlos Israel
+> - ☆ Chan Pech Francisco Israel
 
 ## Primera Entrega
 
