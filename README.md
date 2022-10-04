@@ -1,5 +1,5 @@
 # What should I do?
-<img src="Unidad1/MaderaLopez_Rafael/Logo ing.PNG"/>
+<img src="Unidad1/MaderaLopez_Rafael/Logo ing.PNG" width="220" height="220"/>
 
 ## Problematica
 
