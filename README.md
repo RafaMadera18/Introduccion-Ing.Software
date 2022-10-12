@@ -43,7 +43,8 @@ Futuros sustentantes de la universidad y maestros afines a el área.
    > - [Comparación IEEE](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/c96e7602df324e86c4026c1687570f6d69dc881c/Unidad1/Artefactos/Comparaciones%20malla%20curricular/Comparaci%C3%B3n%20IEEE.pdf "Click Aquí")
   
   ### Bitácoras
-  > - [Sesión 1](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/47c5c7ce89c6eb21b64a1f11351f0f8b81a771db/Unidad1/Bit%C3%A1coras/Bitacora%201.pdf "Click Aquí")
+  > - [Sesión 1](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/8c4cfb62a490ff0b17ace6a1e5941b788513271b/Unidad1/Bit%C3%A1coras/Bit%C3%A1cora%20%20Sesi%C3%B3n%201.pdf "Click Aquí")
+  > - [Sesión 2](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/8c4cfb62a490ff0b17ace6a1e5941b788513271b/Unidad1/Bit%C3%A1coras/Bit%C3%A1cora%20Sesi%C3%B3n%202.pdf "Click Aquí")
   
   ### Documentación
   > - [Tracker de Contribución](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/c96e7602df324e86c4026c1687570f6d69dc881c/Unidad1/Documentaci%C3%B3n/Tracker%20de%20Contribuci%C3%B3n/Tracker%20de%20contribuci%C3%B3n.PNG "Click Aquí")
