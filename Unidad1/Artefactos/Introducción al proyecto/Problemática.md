@@ -1,0 +1,3 @@
+## Problemática
+
+La desinformación de los estudiantes y futuros sustentantes, acerca del plan de estudios y las materias que se plantean para su formación en el área de Ingeniería de Software en la Facultad de Matemáticas.
