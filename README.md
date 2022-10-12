@@ -4,11 +4,11 @@
 
 ## Equipo 
 
-> - ★ Madera López Rafael Leonardo 
-> - ☆ Kuh Esquivel Mauro Arif
-> - ☆ Murcia Cen José Alberto
-> - ☆ Ruz Ruz Carlos Israel
-> - ☆ Chan Pech Francisco Israel
+> - ★ Madera López Rafael Leonardo [@RafaMadera18](https://github.com/RafaMadera18 "Click Aquí")
+> - ☆ Kuh Esquivel Mauro Arif [@Mau1227](https://github.com/Mau1227 "Click Aquí")
+> - ☆ Murcia Cen José Alberto [@JoseMurc](https://github.com/JoseMurc "Click Aquí")
+> - ☆ Ruz Ruz Carlos Israel [@XxcarlosruzxX](https://github.com/XxcarlosruzxX "Click Aquí")
+> - ☆ Chan Pech Francisco Israel [@Frank-1985](https://github.com/Franck-1985 "Click Aquí")
 
 ## Problematica
 
