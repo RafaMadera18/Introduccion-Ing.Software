@@ -1,5 +1,5 @@
 # What should I do?
-<img src="Unidad1/Artefactos/.Propuesta_Proyecto/Logo ing.PNG" width="220" height="220"/>
+<img src="Unidad1/Artefactos/Introducción al proyecto/Logo ing.PNG"/>
 
 ## Problematica
 
