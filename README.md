@@ -1,4 +1,5 @@
 # What should I do?
+<p align="center">
 <img src="Unidad1/Artefactos/Introducción al proyecto/Logo ing.PNG"/>
 
 ## Equipo 
