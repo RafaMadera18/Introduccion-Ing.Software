@@ -29,3 +29,15 @@ Futuros sustentantes de la universidad y maestros afines a el área.
 
 ## Primera Entrega
 
+  ### Artefactos
+  
+  #### Proyectos
+  
+  #### Entrega de Tareas
+  
+  
+  
+  ### Bitácoras
+  > - [Sesión 1](./Unidad1/Bitácoras/Bitacora 1.pdf "Click Aquí")
+  
+  ### Documentación
