@@ -48,5 +48,5 @@ Futuros sustentantes de la universidad y maestros afines en el área.
   > - [Sesión 2](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/8c4cfb62a490ff0b17ace6a1e5941b788513271b/Unidad1/Bit%C3%A1coras/Bit%C3%A1cora%20Sesi%C3%B3n%202.pdf "Click Aquí")
   
   ### Documentación
-  > - [Tracker de Contribución](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/c96e7602df324e86c4026c1687570f6d69dc881c/Unidad1/Documentaci%C3%B3n/Tracker%20de%20Contribuci%C3%B3n/Tracker%20de%20contribuci%C3%B3n.PNG "Click Aquí")
+  > - [Tracker de Contribución](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/69041cceaa66c1cf42ce21a4917d684486dfb61a/Unidad1/Documentaci%C3%B3n/Tracker%20de%20Contribuci%C3%B3n/Tracker%20de%20contribuci%C3%B3n.PNG "Click Aquí")
   > - [Metodología](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/bc6c03d59b9b4ffd9efa3379deb7929f5ec77f60/Unidad1/Documentaci%C3%B3n/Proceso%20de%20Desarrollo/Metodolog%C3%ADa.md "Click Aquí")
