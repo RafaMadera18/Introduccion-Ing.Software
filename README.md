@@ -25,7 +25,7 @@ Estudiantes de Ingeniería de Software de la UADY.
 
 - ### Secundarios y/o Potenciales
 
-Futuros sustentantes de la universidad y maestros afines a el área.
+Futuros sustentantes de la universidad y maestros afines en el área.
 
 ## Primera Entrega
 
