@@ -1,0 +1,2 @@
+# Solución
+Realizar una página web que sirva de guía para los estudiantes de la facultad de matemáticas donde podrán encontrarán material de apoyo correctamente hecho y viniendo de fuentes confiables para sus asignaturas como lo son vídeos, guías, documentos y aplicaciones referentes a las asignaturas de la malla curricular para complementar un mejor aprendizaje. Esto como orientación a los estudiantes de la facultad. En la página se encontrarán clasificadas las asignaturas del primer semestre de la malla curricular de Ingeniería de Software de la UADY.
