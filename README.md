@@ -2,14 +2,6 @@
 <p align="center">
 <img src="Unidad1/Artefactos/Introducción al proyecto/Logo ing.PNG"/>
 
-## Equipo 
-
-> - ★ Madera López Rafael Leonardo [@RafaMadera18](https://github.com/RafaMadera18 "Click Aquí")
-> - ☆ Kuh Esquivel Mauro Arif [@Mau1227](https://github.com/Mau1227 "Click Aquí")
-> - ☆ Murcia Cen José Alberto [@JoseMurc](https://github.com/JoseMurc "Click Aquí")
-> - ☆ Ruz Ruz Carlos Israel [@XxcarlosruzxX](https://github.com/XxcarlosruzxX "Click Aquí")
-> - ☆ Chan Pech Francisco Israel [@Frank-1985](https://github.com/Franck-1985 "Click Aquí")
-
 ## Problematica
 
 La desinformación de los estudiantes y futuros sustentantes, acerca del plan de estudios y las materias que se plantean para su formación en el área de Ingeniería de Software en la Facultad de Matemáticas.
@@ -52,3 +44,11 @@ Futuros sustentantes de la universidad y maestros afines en el área.
   ### Documentación
   > - [Tracker de Contribución](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/69041cceaa66c1cf42ce21a4917d684486dfb61a/Unidad1/Documentaci%C3%B3n/Tracker%20de%20Contribuci%C3%B3n/Tracker%20de%20contribuci%C3%B3n.PNG "Click Aquí")
   > - [Metodología](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/bc6c03d59b9b4ffd9efa3379deb7929f5ec77f60/Unidad1/Documentaci%C3%B3n/Proceso%20de%20Desarrollo/Metodolog%C3%ADa.md "Click Aquí")
+
+## Equipo 
+
+> - ★ Madera López Rafael Leonardo [@RafaMadera18](https://github.com/RafaMadera18 "Click Aquí")
+> - ☆ Kuh Esquivel Mauro Arif [@Mau1227](https://github.com/Mau1227 "Click Aquí")
+> - ☆ Murcia Cen José Alberto [@JoseMurc](https://github.com/JoseMurc "Click Aquí")
+> - ☆ Ruz Ruz Carlos Israel [@XxcarlosruzxX](https://github.com/XxcarlosruzxX "Click Aquí")
+> - ☆ Chan Pech Francisco Israel [@Frank-1985](https://github.com/Franck-1985 "Click Aquí")
