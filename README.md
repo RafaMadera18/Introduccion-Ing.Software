@@ -13,11 +13,11 @@ Realizar una página web que sirva de guía para los estudiantes de la facultad 
 ## Usuarios
 - ### Primarios
 
-Estudiantes de Ingeniería de Software de la UADY.
+Estudiantes de Ingeniería de Software de la Universidad Autonóma de Yucatán, ya que la página se enfocará solamente al plan de estudios de esta carrera.
 
 - ### Secundarios y/o Potenciales
 
-Futuros sustentantes de la universidad y maestros afines en el área.
+Futuros sustentantes de la universidad, estudiantes de licenciaturas que compartan asignaturas con Ingeniería de Software y maestros afines en el área que deseen consultar estos recursos o incluso aportar nuevos.
 
 ## Primera Entrega
 
