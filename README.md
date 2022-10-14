@@ -32,7 +32,7 @@ Futuros sustentantes de la universidad y maestros afines en el área.
   ### Artefactos
   > - [Factibilidad e Importancia](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/bc6c03d59b9b4ffd9efa3379deb7929f5ec77f60/Unidad1/Artefactos/Requerimientos/Factibilidad%20e%20Importancia.md "Click Aquí")
   > - [Historias de Usuario](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/bc6c03d59b9b4ffd9efa3379deb7929f5ec77f60/Unidad1/Artefactos/Requerimientos/HISTORIA%20DE%20USUARIOS.pdf "Click Aquí")
-  > - [Tabla de Requerimientos](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/bc6c03d59b9b4ffd9efa3379deb7929f5ec77f60/Unidad1/Artefactos/Requerimientos/TABLA%20DE%20REQUERIMIENTOS.pdf "Click Aquí")
+  > - [Tabla de Requerimientos](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/59c17ce6db212894fe1483fa6a82e9c4e305aca5/Unidad1/Artefactos/Requerimientos/TABLA%20DE%20REQUERIMINETOS.pdf "Click Aquí")
   > - [Diagrama de Casos de Uso](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/41b262600d2c4eb6955d08f7468e678cafa06c6b/Unidad1/Artefactos/Diagramas/Diagrama%20de%20casos%20de%20uso.pdf "Click Aquí")
   
   #### Introducción al Proyecto
