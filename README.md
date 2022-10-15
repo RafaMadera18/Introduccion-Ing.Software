@@ -49,6 +49,7 @@ Futuros sustentantes de la universidad, estudiantes de licenciaturas que compart
   ### Documentación
   > - [Tracker de Contribución](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/69041cceaa66c1cf42ce21a4917d684486dfb61a/Unidad1/Documentaci%C3%B3n/Tracker%20de%20Contribuci%C3%B3n/Tracker%20de%20contribuci%C3%B3n.PNG "Click Aquí")
   > - [Metodología](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/bc6c03d59b9b4ffd9efa3379deb7929f5ec77f60/Unidad1/Documentaci%C3%B3n/Proceso%20de%20Desarrollo/Metodolog%C3%ADa.md "Click Aquí")
+  > - [Video](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/23952752a79ab60c60c37ddb73e37662656706c5/Unidad1/Video/Video%20Primera%20Entrega.md "Click Aquí")
 
 ## Equipo 
 
