@@ -4,14 +4,14 @@
 
 ## Problematica
 
-Existen muchas dudas acerca del plan de estudios y las materias que se plantean para su formación en el área de Ingeniería de Software en la Facultad de Matemáticas. Una gran parte de los estudiantes tienen dificultades para cursar las materias y necesitan orientación o ayuda sobre todo en el primer semestre donde la mayoría tiene que adaptarse a un nuevo método de estudio. Esto puede tener como consecuencia una nota no aprobatoria en el curso, lo que trae como consecuencia un atraso considerable en la universidad.
+Existen muchas dudas acerca del plan de estudios y las materias que se plantean para su formación en el área de Ingeniería de Software en la Facultad de Matemáticas. Una gran parte de los estudiantes tienen dificultades para cursar las materias y necesitan orientación o ayuda sobre todo en el primer semestre donde la mayoría tiene que adaptarse a un nuevo método de estudio. Esto puede tener como consecuencia una nota no aprobatoria en el curso, lo que trae como consecuencia un atraso considerable en la universidad. Además de afectar impedir al estudiante obtener las competencias deseadas.
 
 ## Solución
 
-Realizar una página web que sirva de guía para los estudiantes de la facultad de matemáticas donde podrán encontrarán material de apoyo correctamente hecho y viniendo de fuentes confiables para sus asignaturas como lo son vídeos, guías, documentos y aplicaciones referentes a las asignaturas de la malla curricular para complementar un mejor aprendizaje. Esto como orientación a los estudiantes de la facultad. En la página se encontrarán clasificadas las asignaturas del primer semestre de la malla curricular de Ingeniería de Software de la UADY.  
+Realizar una página web que sirva de guía para los estudiantes de la facultad de matemáticas donde podrán encontrarán material de apoyo correctamente hecho y viniendo de fuentes confiables para sus asignaturas como lo son vídeos, guías, documentos y aplicaciones referentes a las asignaturas de la malla curricular para complementar un mejor aprendizaje. Esto como orientación a los estudiantes de la facultad. En la página se encontrarán clasificadas las asignaturas del primer semestre de la malla curricular de Ingeniería de Software de la UADY. 
   
 ## Objetivo
-  Nuestra meta es lograr que la mayoría de los estudiantes pasen sus materias y no terminen debiendo materias de primer semestre en años más avanzados. Para ello desarrollaremos esta página web, sabemos que el internet tiene mucha información y está al alcance de todos, si bien esto es bueno, a la vez puede generar confusión en los estudiantes al no saber qué información es la correcta y cual deben ignorar, por ello la idea es que usen esta herramienta como método de apoyo para que sepan a donde acudir directamente y no gasten horas buscando información en medios que no sean confiables.
+  Nuestra meta es lograr que la mayoría de los estudiantes obtengan las competencias dictadas por el plan de estudios, pasen sus materias y no terminen "arrastrando" materias de primer semestre en años más avanzados, para ello desarrollaremos esta página web. Sabemos que el internet tiene mucha información y está al alcance de todos, si bien esto es bueno, a la vez puede generar confusión en los estudiantes al no saber qué información es la correcta y cual deben ignorar, por ello la idea es que usen esta herramienta como método de apoyo para que sepan a donde acudir directamente y no gasten horas buscando información en medios que no sean confiables.
 
 ## Usuarios
 - ### Primarios
