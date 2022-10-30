@@ -7,5 +7,4 @@ Consiste en asegurarse de que la información no se pierda ni se vea comprometid
 #### Disponibilidad:
 La información debe estar disponible en cualquier momento cuando cualquier usuario la necesite, se deben implementar medidas necesarias para que la información y servicios estén disponibles en cualquier momento. Para ello se necesitan políticas de control, elaborar varias normas y procedimientos, definición de acciones que deben emprender las personas y definiciones del perímetro que se va a afectar.
 
-Siguiendo estos tres pilares un ingeniero tendría el conocimientos y habilidades mínimas para tener una seguridad aceptable en sus trabajos. Estas tres deben ir de la mano y ninguna es más importante que otra, por ello deben ir de la mano. 
-
+Siguiendo estos tres pilares un ingeniero tendría el conocimientos y habilidades mínimas para tener una seguridad aceptable en sus trabajos. Estas tres deben ir de la mano y ninguna es más importante que otra.
