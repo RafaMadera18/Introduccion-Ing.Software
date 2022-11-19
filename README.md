@@ -43,6 +43,7 @@
 ##### Interfaces Media Fidelidad
   > - [Por Entrega: formato .fig](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/b88bfbdec80df9c4170dbfd33060a483d0599116/Sprint%202/Artefactos/Interfaces%20Media%20Fidelidad/Interfaz%20Media%20Fidelidad%20Por%20Entregas.fig "Click Aquí")
   > - [Por Unidad: formato .fig](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/b88bfbdec80df9c4170dbfd33060a483d0599116/Sprint%202/Artefactos/Interfaces%20Media%20Fidelidad/Interfaz%20Media%20Fidelidad%20Por%20Unidad.fig "Click Aquí")
+  > - [Por Unidad y Entrega: formato .pdf](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/4bba4e7eb387f745725ada5d9f1a9e17a51186d5/Sprint%202/Artefactos/Interfaces%20Media%20Fidelidad/Interfaces%20Media%20Fidelidad%20PDF.md "Click Aquí")
 
 ##### Verificación y Validación
  > - [Matriz de Trazabilidad](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/b88bfbdec80df9c4170dbfd33060a483d0599116/Sprint%202/Artefactos/Verificaci%C3%B3n/Matriz%20de%20trazabilidad.pdf "Click Aquí")
