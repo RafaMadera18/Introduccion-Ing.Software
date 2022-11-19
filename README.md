@@ -1,6 +1,6 @@
 # What should I do?
 <p align="center">
-<img src="Unidad1/Artefactos/Introducción al proyecto/Logo ing.PNG"/>
+<img src="https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/2b793f3af18f2020e3886d2bcaff421e5ee01885/Extras/Logo.PNG"/>
 
 ## Problematica
 
