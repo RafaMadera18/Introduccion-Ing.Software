@@ -6,7 +6,7 @@
 
 ## Roles de Equipo 
 <b>Product Owner:</b></br>
- > - ★ Maestro Edgar Cambranes [@cambranes](https://github.com/cambranes "Click Aquí")</br>
+ > - ★★ Maestro Edgar Cambranes [@cambranes](https://github.com/cambranes "Click Aquí")</br>
  
 <b>Scrum Master: </b></br>
  > - ★ Madera López Rafael Leonardo [@RafaMadera18](https://github.com/RafaMadera18 "Click Aquí")</br>
