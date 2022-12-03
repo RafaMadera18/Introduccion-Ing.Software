@@ -1,0 +1,6 @@
+# Critica al curso
+El curso realmente estaba pensado para ser teórico, sin embargo, pudimos experimentar en la práctica los conceptos vistos en clase, y tratar de asemejar todo el proceso a lo más parecido al mundo laboral. En general la idea del curso nos pareció muy interesante, las reuniones semanales fueron de gran ayuda como guía para el proyecto. Particularmente tuvimos que aprender por nuestra cuenta a usar la mayoría de aplicaciones o sitios como Github o Figma, o aprender a realizar actividades particulares para cumplir con la entrega.
+
+Las pláticas que se dieron con exalumnos de la facultad fueron de gran ayuda ya que pudimos resolver ciertas dudas y conocer que podemos hacer en un futuro como Ingenieros de Software, tener esta experiencia desde un principio de nuestra carrera nos ayudó a considerar si realmente es lo que queremos hacer por el resto de nuestras vidas.
+
+Sin embargo, en las reuniones semanales podíamos mostrar nuestros avances del producto, pero durante el curso mantuvimos ciertas dudas si realmente lo estábamos haciendo correcto o en que podríamos mejorar por cada entrega, por lo que una reunión o una revisión por entrega durante el curso podría ser de bastante ayuda.
