@@ -1,6 +1,6 @@
 # What should I do?
 <p align="center">
-<img src="https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/2b793f3af18f2020e3886d2bcaff421e5ee01885/Extras/Logo.PNG"/>
+<img src="https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/2b793f3af18f2020e3886d2bcaff421e5ee01885/Extras/Logo.PNG"/></p>
 
 ## Problematica
 
@@ -36,6 +36,8 @@ Futuros sustentantes de la universidad, estudiantes de licenciaturas que compart
  > - ☆ Chan Pech Francisco Israel [@Frank-1985](https://github.com/Franck-1985 "Click Aquí")
 
 ## Primera Entrega
+<p align="center">
+<img src="https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/0a066911eb427497de8e83922a02c99a02a89ed2/Extras/Banner%20Entrega%201%20-%20copia.PNG"/></p>
 
   ### Artefactos
   > - [Factibilidad e Importancia](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/bc6c03d59b9b4ffd9efa3379deb7929f5ec77f60/Unidad1/Artefactos/Requerimientos/Factibilidad%20e%20Importancia.md "Click Aquí")
@@ -65,6 +67,9 @@ Futuros sustentantes de la universidad, estudiantes de licenciaturas que compart
   > - [Video](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/23952752a79ab60c60c37ddb73e37662656706c5/Unidad1/Video/Video%20Primera%20Entrega.md "Click Aquí")
 
 ## Segunda Entrega
+<p align="center">
+<img src="https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/0a066911eb427497de8e83922a02c99a02a89ed2/Extras/Banner%20Entrega%202.PNG"/></p>
+
 ### Sprint 2
 
 <ul>
@@ -107,3 +112,9 @@ Futuros sustentantes de la universidad, estudiantes de licenciaturas que compart
 #### Documentación
  > - [Metodología](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/b88bfbdec80df9c4170dbfd33060a483d0599116/Sprint%202/Documentaci%C3%B3n/Metodologia/Readme.md "Click Aquí")
  > - [Planteamiento y Tracker de contribución](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/b88bfbdec80df9c4170dbfd33060a483d0599116/Sprint%202/Documentaci%C3%B3n/Planteamiento%20de%20Sprint/Readme.md "Click Aquí")
+
+## Tercera Entrega 
+<p align="center">
+<img src="https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/0a066911eb427497de8e83922a02c99a02a89ed2/Extras/Banner%20Entrega%203.PNG"/></p>
+
+### Sprint 3
