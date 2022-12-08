@@ -167,6 +167,7 @@ Futuros sustentantes de la universidad, estudiantes de licenciaturas que compart
 
 ##### Reflexiones Grupales
   > - [Crítica al Curso](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/a074b538387f40bb318bc24a0b866520a822900d/Sprint%203/Artefactos/Reflexiones%20Grupales/Critica%20al%20curso.md "Click Aquí")
+  > - [Reflexión Competencias](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/e0439969e0d05a2e74a39d2e2f4933a4d9e64066/Sprint%203/Artefactos/Reflexiones%20Grupales/Reflexi%C3%B3n%20Competencias%20.md "Click Aquí")
 
 ### Bitácoras
   > - [Bitácora 1](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/4050e376146ae21e8f03cface8dad1edf8985989/Sprint%203/Bit%C3%A1coras/Bit%C3%A1cora%201.pdf "Click Aquí")
