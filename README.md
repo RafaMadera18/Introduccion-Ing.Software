@@ -126,7 +126,13 @@ Futuros sustentantes de la universidad, estudiantes de licenciaturas que compart
   <li><b>Planeación:</b> Interfaces de Alta Fidelidad, Codificación, Validación de Información</li>
 </ul>
 
-#### Artefactos
+### Artefactos
+
+##### Videos
+  > - [Presentación Proceso Incremental](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/4050e376146ae21e8f03cface8dad1edf8985989/Sprint%203/Artefactos/Videos/Presentaci%C3%B3n%20Proceso%20Incremental.md "Click Aquí")
+
+##### Página Web
+  > - [Link y comentarios de la página](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/4050e376146ae21e8f03cface8dad1edf8985989/Sprint%203/Artefactos/P%C3%A1gina%20Web/Readme.md "Click Aquí")
 
 ##### Innovación
   > - [¿Qué es lo diferente de nuestro proyecto?](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/49d041fe2062d71ca319236f02a788d20880f8ae/Sprint%203/Artefactos/Innovaci%C3%B3n/Innovaci%C3%B3n.md "Click Aquí")
@@ -161,3 +167,9 @@ Futuros sustentantes de la universidad, estudiantes de licenciaturas que compart
 
 ##### Reflexiones Grupales
   > - [Crítica al Curso](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/a074b538387f40bb318bc24a0b866520a822900d/Sprint%203/Artefactos/Reflexiones%20Grupales/Critica%20al%20curso.md "Click Aquí")
+
+### Bitácoras
+  > - [Bitácora 1](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/4050e376146ae21e8f03cface8dad1edf8985989/Sprint%203/Bit%C3%A1coras/Bit%C3%A1cora%201.pdf "Click Aquí")
+
+### Documentación 
+  > - [Planteamiento Sprint 3](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/4050e376146ae21e8f03cface8dad1edf8985989/Sprint%203/Documentaci%C3%B3n/Readme.md "Click Aquí")
