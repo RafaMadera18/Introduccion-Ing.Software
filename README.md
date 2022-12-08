@@ -11,7 +11,7 @@ Existen muchas dudas acerca del plan de estudios y las materias que se plantean 
 Realizar una página web que sirva de guía para los estudiantes de la facultad de matemáticas donde podrán encontrarán material de apoyo correctamente hecho y viniendo de fuentes confiables para sus asignaturas como lo son vídeos, guías, documentos y aplicaciones referentes a las asignaturas de la malla curricular para complementar un mejor aprendizaje. Esto como orientación a los estudiantes de la facultad. 
   
 ## Objetivo
-  El internet tiene mucha información y está al alcance de todos, si bien esto es bueno, a la vez puede generar confusión en los estudiantes al no saber qué información es la correcta y cual deben ignorar, por ello la idea es que usen esta herramienta como método de apoyo para que sepan a donde acudir directamente y no gasten horas buscando información en medios que no sean confiables.
+Una herramienta como método de apoyo para facilitar el estudio a los estudiantes de licenciatura LIS, a través de una guía e información confiable almacenada.
 
 ## Usuarios
 - ### Primarios
