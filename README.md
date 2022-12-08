@@ -129,6 +129,11 @@ Futuros sustentantes de la universidad, estudiantes de licenciaturas que compart
 ##### Innovación
   > - [¿Qué es lo diferente de nuestro proyecto?](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/49d041fe2062d71ca319236f02a788d20880f8ae/Sprint%203/Artefactos/Innovaci%C3%B3n/Innovaci%C3%B3n.md "Click Aquí")
 
+##### Requerimientos
+  > - [Tabla de Requerimientos](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/a074b538387f40bb318bc24a0b866520a822900d/Sprint%203/Artefactos/Requerimientos/Tabla%20de%20Requerimientos.pdf "Click Aquí")
+  > - [Historias de Usuario](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/a074b538387f40bb318bc24a0b866520a822900d/Sprint%203/Artefactos/Requerimientos/Historias%20de%20Usuarios.pdf "Click Aquí")
+  > - [Diagrama de Casos de Uso](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/a074b538387f40bb318bc24a0b866520a822900d/Sprint%203/Artefactos/Requerimientos/Diagrama%20de%20casos%20de%20uso.pdf "Click Aquí")
+
 ##### Interfaces Baja Fidelidad
   > - [Por entrega: formato .fig](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/d7bfa5c8dc146f24b28c2a4118bd32e6aea70a89/Sprint%203/Artefactos/Interfaces%20Baja%20Fidelidad/Interfaz%20Baja%20Fidelidad%20por%20Entregas.fig "Click Aquí")
   > - [Por entrega: formato .pdf](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/d7bfa5c8dc146f24b28c2a4118bd32e6aea70a89/Sprint%203/Artefactos/Interfaces%20Baja%20Fidelidad/Interfaz%20Baja%20Fidelidad%20por%20Entregas.pdf "Click Aquí")
@@ -137,10 +142,20 @@ Futuros sustentantes de la universidad, estudiantes de licenciaturas que compart
 
 ##### Interfaces Media Fidelidad
   > - [Por Entrega: formato .fig](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/d7bfa5c8dc146f24b28c2a4118bd32e6aea70a89/Sprint%203/Artefactos/Interfaces%20Media%20Fidelidad/Interfaz%20Media%20Fidelidad%20Por%20Entregas.fig "Click Aquí")
+  > - [Por Entrega: formato .pdf](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/a074b538387f40bb318bc24a0b866520a822900d/Sprint%203/Artefactos/Interfaces%20Media%20Fidelidad/Interfaz%20Media%20Fidelidad%20Por%20Entregas.pdf "Click Aquí")
   > - [Por Unidad: formato .fig](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/d7bfa5c8dc146f24b28c2a4118bd32e6aea70a89/Sprint%203/Artefactos/Interfaces%20Media%20Fidelidad/Interfaz%20Media%20Fidelidad%20Por%20Unidad.fig "Click Aquí")
+  > - [Por Unidad: formato .pdf](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/a074b538387f40bb318bc24a0b866520a822900d/Sprint%203/Artefactos/Interfaces%20Media%20Fidelidad/Interfaz%20Media%20Fidelidad%20Por%20Unidad.pdf "Click Aquí")
   
 ##### Interfaces Alta Fidelidad
  > - [Interfaz Alta Fidelidad Figma](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/d7bfa5c8dc146f24b28c2a4118bd32e6aea70a89/Sprint%203/Artefactos/Interfaces%20Alta%20Fidelidad/Interfaz%20Alta%20Fidelidad%20Figma.fig "Click Aquí")
  > - [Interfaz Alta Fidelidad PDF](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/d7bfa5c8dc146f24b28c2a4118bd32e6aea70a89/Sprint%203/Artefactos/Interfaces%20Alta%20Fidelidad/Interfaz%20Alta%20Fidelidad%20PDF.md "Click Aquí")
- 
- 
+
+##### Validación
+ > - [Validación Diseño](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/a074b538387f40bb318bc24a0b866520a822900d/Sprint%203/Artefactos/Validaci%C3%B3n/Validaci%C3%B3n%20Dise%C3%B1o.pdf "Click Aquí")
+ > - [Validación Información](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/a074b538387f40bb318bc24a0b866520a822900d/Sprint%203/Artefactos/Validaci%C3%B3n/Validaci%C3%B3n%20Informaci%C3%B3n.md "Click Aquí")
+
+##### Verificación
+ > - [Matriz de Trazabilidad](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/a074b538387f40bb318bc24a0b866520a822900d/Sprint%203/Artefactos/Validaci%C3%B3n/Validaci%C3%B3n%20Dise%C3%B1o.pdf "Click Aquí")
+
+##### Reflexiones Grupales
+  > - [Crítica al Curso](https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/a074b538387f40bb318bc24a0b866520a822900d/Sprint%203/Artefactos/Reflexiones%20Grupales/Critica%20al%20curso.md "Click Aquí")
