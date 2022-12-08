@@ -118,3 +118,10 @@ Futuros sustentantes de la universidad, estudiantes de licenciaturas que compart
 <img src="https://github.com/RafaMadera18/Introduccion-Ing.Software/blob/0a066911eb427497de8e83922a02c99a02a89ed2/Extras/Banner%20Entrega%203.PNG"/></p>
 
 ### Sprint 3
+
+<ul>
+  <li><b>Duración:</b> 20 dias</li>
+  <li><b>Planeación:</b> Interfaces de Alta Fidelidad, Codificación, Validación de Información</li>
+</ul>
+
+
